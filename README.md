@@ -1,2 +1,6 @@
 # belajar-javascript-lanjutan
-belajar membuat objek pada JS
+
+Disini adalah tempat saya untuk menyimpan apa yang telah saya pelajari setiap harinya
+Semoga bisa sehat, konsisten, dan dapat bermanfaat.
+
+#belajar membuat objek pada JS
